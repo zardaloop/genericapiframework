@@ -18,9 +18,9 @@ MODEL = {
     'model_weight': 'model.h5',
     'model_name_tfjs': 'model.js',
     'validation_split': 0.3,
-    'epochs': 100,
+    'epochs': 1,
     'loss': 'mse',
     'optimizer': 'Adam',
     'activation': 'elu',
-    'batch_size':4
+    'batch_size':1
 }

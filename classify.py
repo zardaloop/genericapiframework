@@ -21,7 +21,7 @@ optimizer =          config.MODEL['optimizer']
 model_weight =       config.MODEL['model_weight']
 
 vocab_size = 1000
-max_length = 14
+max_length = 19
 
 
 json_file = open(model_name, 'r')
